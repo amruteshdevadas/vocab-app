@@ -16,5 +16,18 @@
     "jade": "~1.11.0",
     "mongoose": "^6.0.12",
     "morgan": "~1.9.1"
-  }
+  },
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amruteshdevadas/vocab-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amruteshdevadas/vocab-app/issues"
+  },
+  "homepage": "https://github.com/amruteshdevadas/vocab-app#readme",
+  "description": ""
 }
